@@ -18,10 +18,10 @@
 
 </div>
 
-## 🎯 About Me
+## 🎯 About Raidreaper
 
 <!-- Animated About Section -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=F7931E&multiline=true&width=1000&height=200&lines=🔭+Currently+working+on+innovative+web+applications;🌱+Learning+AI%2FML+and+exploring+new+technologies;👯+Looking+to+collaborate+on+open+source+projects;💬+Ask+me+about+JavaScript%2C+React%2C+Node.js%2C+Python;⚡+Fun+fact%3A+I+debug+with+console.log+and+I'm+proud+of+it!" alt="About Me Typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=F7931E&multiline=true&width=1000&height=200&lines=🔭+Currently+working+on+innovative+web+applications;🌱+Learning+AI%2FML+and+exploring+new+technologies;👯+Looking+to+collaborate+on+open+source+projects;💬+Ask+me+about+JavaScript%2C+React%2C+Node.js%2C+Typescript;⚡+Fun+fact%3A+I+debug+with+console.log+and+I'm+proud+of+it!" alt="About Raidreaper Typing" />
 
 <div align="left">
 
