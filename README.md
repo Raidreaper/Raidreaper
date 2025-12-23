@@ -6,7 +6,7 @@
 <div align="center">
 
   <!-- Animated Typing Bio -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hey+there!+I'm+Michael+%F0%9F%91%8B;Full-Stack+Developer+%7C+Problem+Solver;Builder+of+Web+%26+Mobile+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=140&lines=Hey+there!+I'm+Michael+%F0%9F%91%8B;Full-Stack+Developer+%7C+Problem+Solver;Builder+of+Web+%26+Mobile+Experiences" alt="Typing SVG" />
 
 </div>
 
