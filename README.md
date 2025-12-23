@@ -1,3 +1,8 @@
+<!-- Animated Wave Header (Top Banner) -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Digital%20Domain&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+
+<br/>
+
 <div align="center">
 
   <!-- Animated Typing Bio -->
@@ -5,8 +10,17 @@
 
 </div>
 
-<!-- Animated Wave Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Digital%20Domain&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<br/>
+
+<div align="center">
+
+  <!-- Christmas Sparkles -->
+  <img src="https://img.shields.io/badge/🎄%20Merry%20Christmas%20%26%20Happy%20Holidays-ff4655?style=for-the-badge" alt="Christmas Badge" />
+  <br/>
+  <span style="font-size: 1.2rem;">✨ ❄️ 🎄 ✨ ❄️ 🎄 ✨ ❄️ 🎄 ✨</span>
+</div>
+
+<br/>
 
 <div align="center">
 
