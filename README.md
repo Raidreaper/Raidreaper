@@ -4,64 +4,57 @@
 <br/>
 
 <div align="center">
-
   <!-- Animated Typing Bio -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=140&lines=Hey+there!+I'm+Michael+%F0%9F%91%8B;Full-Stack+Developer+%7C+Problem+Solver;Builder+of+Web+%26+Mobile+Experiences" alt="Typing SVG" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=140&lines=Hey+there!+I'm+Michael+%F0%9F%91%8B;Full-Stack+Developer+%7C+Founder+%7C+Product+Builder;EdTech+%7C+Fintech+%7C+School+Management+Systems" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
-
-  <!-- Christmas Sparkles -->
-  <img src="https://img.shields.io/badge/🎄%20Merry%20Christmas%20%26%20Happy%20Holidays-ff4655?style=for-the-badge" alt="Christmas Badge" />
-  <br/>
-  <span style="font-size: 1.2rem;">✨ ❄️ 🎄 ✨ ❄️ 🎄 ✨ ❄️ 🎄 ✨</span>
-</div>
-
-<br/>
-
-<div align="center">
-
   <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=Raidreaper&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
-
+  <img src="https://komarev.com/ghpvc/?username=ObaniwaMichael&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
   <!-- Dynamic Quotes -->
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-
 </div>
 
 ## 🎯 About Me
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=F7931E&multiline=true&width=1000&height=200&lines=🔭+Building+real-world+web+and+mobile+applications;🌱+Growing+in+application+architecture+and+scalable+systems;👯+Open+to+collaborations+and+open-source+projects;💬+Ask+me+about+JavaScript%2C+React%2C+Node.js%2C+TypeScript%2C+Flutter;⚡+Fun+fact%3A+I+still+debug+with+console.log+and+it+works+great!" alt="About Raidreaper Typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=F7931E&multiline=true&width=1000&height=220&lines=🚀+Building+UPCO+-+an+EdTech+platform+for+Nigerian+job+seekers;🏫+Building+Springbase+-+a+multi-portal+school+management+system;🌍+Working+across+EdTech%2C+HealthTech+%26+Fintech+products;💬+Ask+me+about+React%2C+Node.js%2C+Flutter%2C+Django%2C+WordPress;⚡+Fun+fact%3A+I+still+debug+with+console.log+and+it+works+great!" alt="About ObaniwaMichael Typing" />
 
 ```yaml
-name: "Michael"
-aka: "Raidreaper"
-role: "Full-Stack & Application Developer"
+name: "Michael Obaniwa (Olumide Michael Obaniwa)"
+role: "Full-Stack Developer, Entrepreneur & Project Manager"
 location: "Lagos, Nigeria"
-status: "Open to roles, collaborations, and MSc opportunities"
-
+status: "CEO & Co-Founder @ UPCO Nigeria | Open to select collaborations"
+education: "BSc Computer Science, Ambrose Alli University"
+certifications:
+  - "HubSpot Digital Marketing"
+  - "Google Analytics (GA4)"
 interests:
-  - "Scalable web apps & admin systems"
+  - "EdTech, HealthTech & scalable web/mobile apps"
+  - "Admin systems, dashboards & multi-portal platforms"
   - "AI-assisted tools and productivity workflows"
-  - "Developer experience & clean architecture"
-  - "Performance, accessibility & great UX"
-
+  - "Startup building, product strategy & fundraising"
 values:
   - "Write code that is readable, testable, and maintainable"
   - "Ship, learn, iterate"
-  - "Teach what I learn"
+  - "Build things that solve real problems for real people"
 ```
 
 ---
 
-## 👋 Hey, I’m Michael
+## 👋 Hey, I'm Michael
 
-- **🚀 What I do**: I build **scalable web applications**, **admin dashboards**, and **application backends** that are performant and maintainable.  
-- **🧠 How I think**: Strong focus on **clean architecture**, **developer experience**, and **user-centric design**.  
-- **🌍 Beyond code**: I enjoy **learning, mentoring, and collaborating** on products that actually solve problems.  
+- **🚀 What I do**: I build and run **full-stack web & mobile platforms** — from EdTech and school management systems to healthtech and fintech-adjacent tools — wearing both the founder and the developer hat.
+- **🏢 Where I work**:
+  - **CEO & Co-Founder**, [UPCO Nigeria](https://upco.live) — an EdTech platform for Nigerian job seekers, students, and entrepreneurs
+  - **Project Manager & Developer**, [Springbase](https://springbase.com.ng) — a multi-portal school management platform (student, parent, admin dashboards)
+  - **Project Manager & Web Developer**, ShopMaster
+  - **Project Manager**, King of CMS Consulting — including work on Figora Health, a cross-border telehealth platform
+  - **DevOps Engineer**, Life Analytics
+  - **Mobile Developer**, Afretrade
+- **🧠 How I think**: Strong focus on **clean architecture**, **shipping fast**, and **building for the user in front of me**, whether that's a student, a parent, or a job seeker.
+- **🌍 Beyond code**: I enjoy exploring **online monetization models**, mentoring, and figuring out how to make ambitious products work with lean teams.
 
 ---
 
@@ -72,14 +65,13 @@ values:
   "languages": [
     "JavaScript",
     "TypeScript",
+    "Python",
     "PHP",
-    "Java",
     "Dart"
   ],
   "frontend": [
     "React",
     "Next.js",
-    "Angular",
     "Flutter",
     "Tailwind CSS",
     "Bootstrap"
@@ -87,6 +79,7 @@ values:
   "backend": [
     "Node.js",
     "Express",
+    "Django",
     "Laravel"
   ],
   "databases": [
@@ -94,6 +87,10 @@ values:
     "MongoDB",
     "Firebase",
     "Supabase"
+  ],
+  "cms_&_nocode": [
+    "WordPress",
+    "Elementor"
   ],
   "devOps_&_hosting": [
     "Vercel",
@@ -113,19 +110,21 @@ values:
 
 ---
 
-## 🧩 What I’m Currently Working On
+## 🧩 What I'm Currently Working On
 
-- **Building**: Full-stack web applications with **Next.js**, **Node.js**, and modern UI frameworks.  
-- **Exploring**: **Application architecture**, **testing strategies**, and **performance optimization**.  
-- **Learning**: Better patterns for **state management**, **API design**, and **scalable frontends**.  
+- **Building**: [UPCO Nigeria](https://upco.live) — growing our EdTech platform, content, and community for Nigerian job seekers and entrepreneurs.
+- **Maintaining**: [Springbase](https://springbase.com.ng) — a full-stack, multi-portal school management system (React, Node.js, MongoDB, Express, Tailwind CSS).
+- **Exploring**: Application architecture, scalable multi-tenant systems, and go-to-market strategy for early-stage products.
+- **Learning**: Deeper patterns for state management, API design, and fundraising for African startups.
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let's Connect
 
-- **GitHub**: `@Raidreaper`  
-- **Open to**: remote roles, freelance projects, and research / MSc conversations.  
+- **GitHub**: [@ObaniwaMichael](https://github.com/ObaniwaMichael)
+- **Portfolio**: [kingmaker-ten.vercel.app](https://kingmaker-ten.vercel.app)
+- **Open to**: strategic collaborations, freelance/contract projects, and MSc/research conversations.
 
-If you’re working on something exciting and need a developer who loves to **ship, debug, and iterate**, I’d be happy to chat.
+If you're working on something exciting in EdTech, HealthTech, or scalable web platforms and need a developer who can also think like a founder, I'd be happy to chat.
 
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
