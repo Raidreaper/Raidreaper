@@ -10,6 +10,8 @@
 
 <br/>
 
+![Matrix Rain](https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&section=header&text=OBANIWA%20MICHAEL&fontColor=00FF41&fontSize=32&animation=fadeIn)
+
 <div align="center">
   <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=ObaniwaMichael&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
